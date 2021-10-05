@@ -48,6 +48,6 @@ $base_url = 'http://localhost/'; // Thay url web bạn
 ### Lưu ý 
 * Đây là project mình share cho các bạn vui lòng không bán dưới mọi hình thức
 * Mã nguồn đã được sửa lại để tránh bug nhưng vẫn khuyên các bạn không sử dụng vào việc kinh doanh
-* Các bạn có thể mua mã nguồn để ủng hộ CMSNT.CO tại đây: https://www.cmsnt.co/2021/04/shopclone5-ma-nguon-ban-tai-khoan.html
+* Các bạn có thể mua mã nguồn để ủng hộ CMSNT.CO tại đây --> https://www.cmsnt.co/2021/04/shopclone5-ma-nguon-ban-tai-khoan.html
 ## Liên hệ mình
 * Email: refresh.official@protonmail
