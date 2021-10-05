@@ -1,5 +1,5 @@
 # Cách set up
-* C0nfIg nằm trong ```config/config.php```
+* Config nằm trong ```config/config.php```
 ## Config cơ sở dữ liệu
 ```php
 if (!$this->ketnoi)
