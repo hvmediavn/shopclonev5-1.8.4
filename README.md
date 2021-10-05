@@ -39,7 +39,7 @@ $base_url = 'http://localhost/'; // Thay url web bạn
 * Bảo mật chống bug, gian lận, cheat...
 * Bảo mật chống bug, gian lận, cheat...
 * ON/OFF chức năng tự tạo giao dịch ảo.
-# Code của CMSNT.CO - TEaM leADEr Nguyễn Thành
+# Mã nguồn của CMSNT.CO - Team Leader Nguyễn Thành
 ### Vui lòng không sử dụng vào việc KINH DOANH BẤT HỢP PHÁP
 ### Mình sẽ không chịu trách nhiệm nếu các bạn vi phạm các quy định sử dụng code sau đây:
 * Sử dụng dịch vụ để thực hiện các hành vi vi phạm pháp luật của Nhà nước CHXHCN Việt Nam hiện hành và các quy định quốc tế đang được áp dụng tại Việt Nam.
