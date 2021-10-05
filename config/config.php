@@ -2,7 +2,7 @@
 /* ĐƠN VỊ THIẾT KẾ WEB WWW.CMSNT.CO | ZALO 0947838128 | FB.COM/NTGTANETWORK */
 session_start();
 date_default_timezone_set('Asia/Ho_Chi_Minh'); // Timezone VIET NAM <3
-$base_url = 'https://vudinhnamkhanh.xyz/devzone/'; // Thay url web bạn
+$base_url = 'http://localhost/'; // Thay url web bạn
 
 //error_reporting(0);
 class CMSNT
@@ -12,7 +12,7 @@ class CMSNT
     {
         if (!$this->ketnoi)
         {
-            $this->ketnoi = mysqli_connect('localhost', 'jovneswehosting_demo', 'jovneswehosting_demo', 'jovneswehosting_demo') or die ('Vui lòng kết nối đến DATABASE');
+            $this->ketnoi = mysqli_connect('localhost', 'user', 'password', 'dbname') or die ('Vui lòng kết nối đến DATABASE');
             mysqli_query($this->ketnoi, "set names 'utf8'");
         }
     }
