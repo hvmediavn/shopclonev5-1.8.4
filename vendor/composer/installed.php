@@ -1,0 +1,41 @@
+<?php return array(
+    'root' => array(
+        'pretty_version' => 'dev-main',
+        'version' => 'dev-main',
+        'type' => 'library',
+        'install_path' => __DIR__ . '/../../',
+        'aliases' => array(),
+        'reference' => 'c3ed0faea0b6557f29c62d7ebf06d2f9c35ec4dd',
+        'name' => '__root__',
+        'dev' => true,
+    ),
+    'versions' => array(
+        '__root__' => array(
+            'pretty_version' => 'dev-main',
+            'version' => 'dev-main',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../../',
+            'aliases' => array(),
+            'reference' => 'c3ed0faea0b6557f29c62d7ebf06d2f9c35ec4dd',
+            'dev_requirement' => false,
+        ),
+        'mobiledetect/mobiledetectlib' => array(
+            'pretty_version' => '2.8.37',
+            'version' => '2.8.37.0',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../mobiledetect/mobiledetectlib',
+            'aliases' => array(),
+            'reference' => '9841e3c46f5bd0739b53aed8ac677fa712943df7',
+            'dev_requirement' => false,
+        ),
+        'phpmailer/phpmailer' => array(
+            'pretty_version' => 'v6.5.1',
+            'version' => '6.5.1.0',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../phpmailer/phpmailer',
+            'aliases' => array(),
+            'reference' => 'dd803df5ad7492e1b40637f7ebd258fee5ca7355',
+            'dev_requirement' => false,
+        ),
+    ),
+);
