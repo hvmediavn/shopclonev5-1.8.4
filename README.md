@@ -17,7 +17,7 @@ $base_url = 'http://localhost/'; // Thay url web bạn
 # Config nạp thẻ ( card1s.vn )
 * Lên website: https://card1s.vn/ tạo 1 tài khoản
 * Vào mục KẾT NỐI API và thêm website của mình vào
-* Vào phần nạp thẻ ở trang quan trị và nhập theo định dạng partner_id|partner_key ( partner_id & partner_key sẽ được cấp khi bạn két nối api ở card1s.vn )
+* Vào phần nạp thẻ ở trang quan trị và nhập theo định dạng partner_id|partner_key ( partner_id & partner_key sẽ được cấp khi bạn kết nối api ở card1s.vn )
 ## Chức năng
 * Check live clone, via, gmail, hotmail, yahoo.
 * Thanh toán tự động qua Ví MOMO, Ví Zalo Pay.
