@@ -47,6 +47,6 @@ $base_url = 'http://localhost/'; // Thay url web bạn
 * Phát tán và lưu trữ các loại mã độc nhằm mục đích tấn công website khác, hoặc mục đích phá hoại hệ thống của FUTE như Botnet, DDoS, Malware, Virus, Phishing. Bao gồm trường hợp website chứa mã độc.
 ### Lưu ý 
 * Đây là project mình share cho các bạn vui lòng không bán dưới mọi hình thức
-* Code có 1 số bug nên tuyệt đối không sử dụng vào việc kinh 
+* Mã nguồn đã được sửa lại để tránh bug nhưng vẫn khuyên các bạn không sử dụng vào việc kinh doanh
 ## Liên hệ mình
 * Email: refresh.official@protonmail
