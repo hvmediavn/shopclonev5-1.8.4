@@ -64,7 +64,7 @@ if(isset($_POST['btnSaveOption']) && $getUser['level'] == 'admin')
                                         target="_blank">CARD1S.VN</a>]</label>
                                 <div class="col-sm-9">
                                     <div class="form-line">
-                                        <input type="text" name="api_card" value="<?=$CMSNT->site('api_card');?>"
+                                        <input type="text" name="api_card" placeholder="xxxxxxxx|xxxxxxxx" value="<?=$CMSNT->site('api_card');?>"
                                             class="form-control">
                                         <span class="text-danger">Định dạng: partner_id|partner_key</span>
                                     </div>
